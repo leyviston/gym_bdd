@@ -23,7 +23,7 @@ public static void main(String[] args) {
         //listaElementos(contatos);
         //listaElementosVVS(contatos);
        //listarIterator(contatos);
-        //concatenaNomes(contatos);
+       concatenaNomes(contatos);
        concatenaNomesVVS(contatos);
         
     }
